@@ -1,25 +1,30 @@
 {
-  "name": "kangrsyd",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "dev": "nuxt",
-    "build": "nuxt build",
-    "start": "nuxt start",
-    "generate": "nuxt generate"
-  },
-  "dependencies": {
-    "@nuxt/content": "^1.0.0",
-    "@nuxtjs/pwa": "^3.3.5",
-    "core-js": "^3.25.3",
-    "nuxt": "^2.15.8",
-    "vue": "^2.7.10",
-    "vue-server-renderer": "^2.7.10",
-    "vue-template-compiler": "^2.7.10"
-  },
-  "devDependencies": {
-    "@nuxtjs/tailwindcss": "^5.3.3",
-    "@tailwindcss/typography": "^0.5.7",
-    "postcss": "^8.4.17"
-  }
+	"name": "kangrsyd",
+	"version": "1.0.0",
+	"private": true,
+	"author": {
+		"name": "Rasyid Ridho",
+		"url": "https://github.com/kangrsyd/kangrsyd/issues",
+		"email": "me@sekeco.com"
+	},
+	"scripts": {
+		"dev": "nuxt",
+		"build": "nuxt build",
+		"start": "nuxt start",
+		"generate": "nuxt generate"
+	},
+	"dependencies": {
+		"@nuxt/content": "^1.0.0",
+		"@nuxtjs/pwa": "^3.3.5",
+		"core-js": "^3.25.3",
+		"nuxt": "^2.15.8",
+		"vue": "^2.7.10",
+		"vue-server-renderer": "^2.7.10",
+		"vue-template-compiler": "^2.7.10"
+	},
+	"devDependencies": {
+		"@nuxtjs/tailwindcss": "^5.3.3",
+		"@tailwindcss/typography": "^0.5.7",
+		"postcss": "^8.4.17"
+	}
 }
